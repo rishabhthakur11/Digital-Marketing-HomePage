@@ -15,7 +15,7 @@
 
 
 ## Learning Outcome
-  -This assignment will help you to learn about z-index property.
+  -This assignment will help you to learn about `Text Styling` ,`Positioning` , and lot more.
 
 ---
 
